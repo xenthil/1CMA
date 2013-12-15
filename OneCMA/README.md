@@ -15,6 +15,7 @@ Our solution to the problem is computerizing the systems/departments of CMA, whe
 OneCMA is an application where all the systems governed by CMA are integrated. It provides a secured role based authentication. There will be many application roles based on employee's day to day activities. When a person from any given department (say Health, Education or Birth and Death management) logs into OneCMA, he would see the features/modules with respective to his department and role. The higher officials of CMA would have access to all the modules and can generate any kind of report easily. The reports can be exported as excel and PDF formats.
 OneCMA is a bilingual application, which would support both English and Tamil.
 
+OneCMA would also provide, new online public services like applying for birth/death certificates, registering complaints and tracking service status.
 
 Technologies used:
 ------------------
